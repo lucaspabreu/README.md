@@ -15,3 +15,12 @@ Expert in:
     <img height="20em" src="">
        
 </div>
+
+   Studying:
+    <img height="20em" src="https://aleen42.github.io/badges/src/photoshop.svg">
+    <img height="20em" src="https://aleen42.github.io/badges/src/illustrator.svg">
+    <img height="20em" src="https://aleen42.github.io/badges/src/after_effects.svg">
+    <img height="20em" src="https://aleen42.github.io/badges/src/premiere.svg">
+    <img height="20em" src="">
+       
+</div>
