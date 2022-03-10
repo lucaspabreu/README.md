@@ -8,20 +8,20 @@
  <div align="center">
 Expert in:
    <a href="https://github.com/lucaspabreu">
-    <img height="20em" src="https://aleen42.github.io/badges/src/photoshop.svg">
-    <img height="20em" src="https://aleen42.github.io/badges/src/illustrator.svg">
-    <img height="20em" src="https://aleen42.github.io/badges/src/after_effects.svg">
-    <img height="20em" src="https://aleen42.github.io/badges/src/premiere.svg">
+    <img height="17em" src="https://aleen42.github.io/badges/src/photoshop.svg">
+    <img height="17em" src="https://aleen42.github.io/badges/src/illustrator.svg">
+    <img height="17em" src="https://aleen42.github.io/badges/src/after_effects.svg">
+    <img height="17em" src="https://aleen42.github.io/badges/src/premiere.svg">
 
        
 </div>
 
 <div align="center">
    Studying:
-    <img height="20em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    
-    <img height="20em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img height="20em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img height="20em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img height="17em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    
+    <img height="17em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img height="17em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img height="17em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
        
 </div>
