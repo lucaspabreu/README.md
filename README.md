@@ -7,7 +7,6 @@
 
  <div align="center">
 Expert in:
-   <a href="https://github.com/lucaspabreu">
     <img height="17em" src="https://aleen42.github.io/badges/src/photoshop.svg">
     <img height="17em" src="https://aleen42.github.io/badges/src/illustrator.svg">
     <img height="17em" src="https://aleen42.github.io/badges/src/after_effects.svg">
