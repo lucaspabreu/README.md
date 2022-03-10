@@ -7,7 +7,7 @@
 
  <div align="center">
   <a href="https://github.com/lucaspabreu">
-    <img height="180em" src="https://aleen42.github.io/badges/src/photoshop.svg">
+    <img height="20em" src="https://aleen42.github.io/badges/src/photoshop.svg">
     <img height="180em" src="">
     <img height="180em" src="">
     <img height="180em" src="">
