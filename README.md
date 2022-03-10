@@ -12,7 +12,7 @@ Expert in:
     <img height="17em" src="https://aleen42.github.io/badges/src/illustrator.svg">
     <img height="17em" src="https://aleen42.github.io/badges/src/after_effects.svg">
     <img height="17em" src="https://aleen42.github.io/badges/src/premiere.svg">
-     <br>
+     <br/>
 </div>
 
 <div align="center">
