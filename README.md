@@ -16,6 +16,7 @@ Expert in:
        
 </div>
 
+<div align="center">
    Studying:
     <img height="20em" src="https://aleen42.github.io/badges/src/photoshop.svg">
     <img height="20em" src="https://aleen42.github.io/badges/src/illustrator.svg">
