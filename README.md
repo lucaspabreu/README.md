@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-   Studying:
+   <h5>Studiyng:</h5>
     <img style="text-decoration: none" height="17em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    
     <img style="text-decoration: none" height="17em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img style="text-decoration: none" height="17em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
