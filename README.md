@@ -6,7 +6,7 @@
 </div>
   
 
- <div align="center">
+ <div align="center" style="align-items: center">
    <h5>Expert in:</h5>
     <img style="text-decoration: none" height="17em" src="https://aleen42.github.io/badges/src/photoshop.svg">
     <img style="text-decoration: none" height="17em" src="https://aleen42.github.io/badges/src/illustrator.svg">
