@@ -7,7 +7,7 @@
   
 
  <div align="center">
-Expert in:
+   <h1 style="text-decoration: none">Expert in:</h1>
     <img style="text-decoration: none" height="17em" src="https://aleen42.github.io/badges/src/photoshop.svg">
     <img style="text-decoration: none" height="17em" src="https://aleen42.github.io/badges/src/illustrator.svg">
     <img style="text-decoration: none" height="17em" src="https://aleen42.github.io/badges/src/after_effects.svg">
