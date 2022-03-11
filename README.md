@@ -5,21 +5,21 @@
 </div>
   
 
- <div align="center" style="text-decoration: none">
+ <div align="center">
 Expert in:
-    <img height="17em" src="https://aleen42.github.io/badges/src/photoshop.svg">
-    <img height="17em" src="https://aleen42.github.io/badges/src/illustrator.svg">
-    <img height="17em" src="https://aleen42.github.io/badges/src/after_effects.svg">
-    <img height="17em" src="https://aleen42.github.io/badges/src/premiere.svg">
+    <img style="text-decoration: none" height="17em" src="https://aleen42.github.io/badges/src/photoshop.svg">
+    <img style="text-decoration: none" height="17em" src="https://aleen42.github.io/badges/src/illustrator.svg">
+    <img style="text-decoration: none" height="17em" src="https://aleen42.github.io/badges/src/after_effects.svg">
+    <img style="text-decoration: none" height="17em" src="https://aleen42.github.io/badges/src/premiere.svg">
     <br/>
 </div>
 
 <div align="center">
    Studying:
     <img style="text-decoration: none" height="17em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    
-    <img height="17em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img height="17em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img height="17em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img height="17em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">   
+    <img style="text-decoration: none" height="17em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img style="text-decoration: none" height="17em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img style="text-decoration: none" height="17em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img style="text-decoration: none" height="17em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">   
 </div>
 
