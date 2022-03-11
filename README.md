@@ -5,7 +5,7 @@
 </div>
   
 
- <div align="center">
+ <div align="center" style="text-decoration: none">
 Expert in:
     <img height="17em" src="https://aleen42.github.io/badges/src/photoshop.svg">
     <img height="17em" src="https://aleen42.github.io/badges/src/illustrator.svg">
@@ -14,7 +14,7 @@ Expert in:
     <br/>
 </div>
 
-<div align="center">
+<div align="center" style="text-decoration: none">
    Studying:
     <img height="17em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    
     <img height="17em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
