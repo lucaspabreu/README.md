@@ -1,3 +1,4 @@
+<div style="text-decoration: none">
 <div align="center">
   <a href="https://github.com/lucaspabreu" style="text-decoration: none">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspabreu&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -22,4 +23,4 @@ Expert in:
     <img style="text-decoration: none" height="17em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img style="text-decoration: none" height="17em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">   
 </div>
-
+  </div>
