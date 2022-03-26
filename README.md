@@ -17,7 +17,10 @@
 
 <div align="center">
    <h5>Studiyng:</h5>
+    <img style="text-decoration: none" height="17em" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">   
+    <img style="text-decoration: none" height="17em" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">   
     <img style="text-decoration: none" height="17em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img style="text-decoration: none" height="17em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">   
+
 </div>
   </div>
